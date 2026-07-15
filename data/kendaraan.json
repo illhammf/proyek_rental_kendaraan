@@ -1,0 +1,54 @@
+[
+  {
+    "jenis": "Mobil",
+    "kode": "M001",
+    "merk": "Toyota",
+    "model": "Avanza",
+    "tahun": 2022,
+    "plat_nomor": "B 1234 TKA",
+    "tarif_harian": 350000,
+    "status": "tersedia",
+    "jumlah_kursi": 7,
+    "tipe_transmisi": "Manual",
+    "biaya_supir_per_hari": 150000
+  },
+  {
+    "jenis": "Mobil",
+    "kode": "M002",
+    "merk": "Honda",
+    "model": "Brio",
+    "tahun": 2021,
+    "plat_nomor": "B 4421 BRI",
+    "tarif_harian": 300000,
+    "status": "tersedia",
+    "jumlah_kursi": 5,
+    "tipe_transmisi": "Automatic",
+    "biaya_supir_per_hari": 150000
+  },
+  {
+    "jenis": "Motor",
+    "kode": "R001",
+    "merk": "Honda",
+    "model": "Vario",
+    "tahun": 2023,
+    "plat_nomor": "B 7788 VRO",
+    "tarif_harian": 90000,
+    "status": "tersedia",
+    "jenis_motor": "Matic",
+    "kapasitas_cc": 125,
+    "biaya_helm": 10000
+  },
+  {
+    "jenis": "Motor",
+    "kode": "R002",
+    "merk": "Yamaha",
+    "model": "NMAX",
+    "tahun": 2022,
+    "plat_nomor": "B 9911 NMX",
+    "tarif_harian": 150000,
+    "status": "tersedia",
+    "jenis_motor": "Matic",
+    "kapasitas_cc": 155,
+    "biaya_helm": 10000
+  }
+]

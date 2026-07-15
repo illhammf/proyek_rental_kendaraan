@@ -1,0 +1,23 @@
+[
+  {
+    "id_pelanggan": "P001",
+    "nama": "Andi Saputra",
+    "no_ktp": "3671010101010001",
+    "no_hp": "081234567890",
+    "alamat": "Tangerang"
+  },
+  {
+    "id_pelanggan": "P002",
+    "nama": "Siti Aminah",
+    "no_ktp": "3671010101010002",
+    "no_hp": "082233445566",
+    "alamat": "Jakarta"
+  },
+  {
+    "id_pelanggan": "P003",
+    "nama": "Ilham Firmansyah",
+    "no_ktp": "36031710020304050",
+    "no_hp": "0895336900466",
+    "alamat": "Tangerang"
+  }
+]
